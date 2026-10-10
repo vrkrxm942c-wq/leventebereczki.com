@@ -1,0 +1,70 @@
+# Levente Bereczki
+
+> Co-founder of Ravnar, a back-office system for companies expanding to other countries or running multiple entities. Former CFO and CEO of Scraping Robotics, a Hungarian deep-tech startup. Also works as a forward-deployed operator in finance and back office. Based in Budapest, Hungary.
+
+Name in Hungarian order: Bereczki Levente.
+Last updated: 2026-10-10.
+
+## Now
+
+- [Ravnar](https://ravnar.io/): Co-founder, September 2026 to present. A system that watches your tools: Ravnar connects them, organizes the information across a company, identifies the obligations that come with it and actions them, so that expanding to other countries or having multiple entities is something Ravnar manages.
+- Forward-deployed operator in finance and back office: building from within, discovering further problems to solve and testing Ravnar's solutions live. Open to hearing about complex problems.
+
+## Career
+
+- Ravnar: Co-founder, September 2026 to present.
+- STEAM Academy, a US-headquartered startup with a complex international structure:
+  - Interim Head of Finance and Back Office, December 2025 to present.
+  - Finance Manager, February 2025 to December 2025. Led finance, accounting (external) and HR operations, reporting to the CEO. Migrated accounting to an automated platform, cutting costs by 80% and enabling real-time reporting. Built FP&A and cash-flow frameworks for budgeting, forecasting and scenario analysis. Led the finance and back-office workstream of an operational restructuring that extended runway by 12 months.
+  - Financial Planning Analyst, November 2024 to January 2025 (Ireland). Bridged US and Irish finance and operations. Built an automated P&L model that cut manual reconciliation work by 50%. Standardized data collection for 100+ employees, taking payroll processing from 4 days to 6 hours. Cut group software costs by 12%.
+- Scraping Robotics Kft. (Budapest): Co-founder. Lasers, machine learning and early AI to automate industrial scraping.
+  - CEO, September 2022 to November 2024. Closed the second VC round, grew the valuation 8x, managed a team of six across engineering and operations, pitched to angels in Silicon Valley and represented the company at Collision (Toronto) and Web Summit (Lisbon). When the market turned, led a strategic wind-down that returned as much as possible to investors, with Levente acting as liquidator.
+  - CFO, June 2021 to September 2022. Built the business and financial plan for the first VC round and closed it. Won first place at the first Hungarian Startup University Program (HSUP) Demo Day, August 2021. Oversaw accounting, finance and operations as the company grew from zero.
+- Freelance investment translator, July 2018 to May 2021. Translated and adapted investment literature for a financial education publisher, focused on Buffett, Munger and the value investing canon.
+- Citi (Citibank Europe plc): Intern, October 2017 to February 2018.
+
+## Education
+
+- Eötvös Loránd University (ELTE), Budapest: MSc Accounting, 2024 to 2026. Thesis: a controlling system for asset-light, early-stage European companies.
+- Eötvös Loránd University (ELTE), Budapest: Management and Leadership MSc studies, 2021 to 2023 (coursework completed).
+- Jagiellonian University, Kraków: European Studies, exchange semester, February to July 2019.
+- Eötvös Loránd University (ELTE), Budapest: BA Slavic Studies (philology), 2017 to 2020.
+
+## Certifications
+
+- Financial Modeling & Valuation Analyst (FMVA), Corporate Finance Institute
+- Google Cybersecurity Professional Certificate
+
+## Work areas
+
+- Fundraising and investor reporting
+- Accounting and cap table cleanup
+- FP&A, cash-flow planning and controlling
+- Process automation
+- Restructuring, wind-downs and liquidation
+- Litigation, labor and commercial law matters across the US and multiple European jurisdictions
+- Contracts across the startup lifecycle
+- Cross-border, multi-entity finance and back office
+
+## Languages
+
+Hungarian (native), English (full professional), Polish (professional working).
+
+## Coverage
+
+- [Scraping Robotics: Régi technológia megújult köntösben](https://growthmagazin.hu/scraping-robotics-regi-technologia-megujult-kontosben/): Growth Magazin, 27 September 2023, in Hungarian. Interview with Levente as co-founder of Scraping Robotics.
+- [Dunaújvárosi siker az I. HSUP Demo Day-en](https://www.uniduna.hu/hirek/hirek-almenu/2482-dunaujvarosi_siker_az_i_hsup_demo_day_en): Dunaújváros University, 30 August 2021, in Hungarian. Scraping Robotics, with Levente on the team, wins the first HSUP Demo Day.
+- [Új gyártástechnológia a kézi hántolás kiváltására](https://nkfih.gov.hu/hivatalrol/online-sajto/uj-gyartastechnologia): NKFIH (Hungary's national research, development and innovation office), 3 June 2022, in Hungarian. On the Scraping Robotics technology, its Hiventures pre-seed and the Demo Day win.
+
+## Links
+
+- [Personal site](https://leventebereczki.com/)
+- [LinkedIn](https://www.linkedin.com/in/levente-bereczki)
+- [Crunchbase](https://www.crunchbase.com/person/levente-bereczki-553c)
+- [Ravnar](https://ravnar.io/)
+- [Scraping Robotics on Crunchbase](https://www.crunchbase.com/organization/scraping-robotics-kft)
+- [Scraping Robotics on Dealroom](https://app.dealroom.co/companies/scrapingrobotics)
+
+## Contact
+
+- Email: levente@ravnar.io
